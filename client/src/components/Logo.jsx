@@ -27,7 +27,7 @@ export function Logo({ size = 'md' }) {
       <span
         className={`font-display font-bold tracking-tight text-[#1E293B] ${textSize}`}
       >
-        FolioNote
+        Notes App
       </span>
     </span>
   );
